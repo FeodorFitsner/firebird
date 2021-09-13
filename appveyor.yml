@@ -1,6 +1,5 @@
 image:
-  - Visual Studio 2017
-  - Previous Ubuntu1804
+  - Ubuntu1804
 
 platform:
   - x64
