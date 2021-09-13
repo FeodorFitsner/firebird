@@ -2,16 +2,8 @@ image:
   - Ubuntu1804
 
 platform:
-  - x64
+#  - x64
   - x86
-
-for:
--
-  matrix:
-    only:
-      - platform: x86
-  only_commits:
-    message: /increment build number/
 
 shallow_clone: true
 
